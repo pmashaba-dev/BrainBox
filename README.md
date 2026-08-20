@@ -4,6 +4,12 @@
 
 The project combines quizzes, study resources, progress tracking, leaderboards, user accounts, and Firebase services in one mobile learning experience.
 
+## Overview
+
+BrainBox was developed as an Android application focused on educational technology and practical software development.
+
+The application provides learners with subject-based content and interactive quizzes while using gamification features to encourage regular practice and progress.
+
 ##  Features
 
 -  **Interactive quizzes** for Mathematics and Physical Sciences
@@ -70,6 +76,14 @@ BrainBox/
 - Android Studio
 - JDK 11 or a compatible JDK supported by your Android Studio/Gradle setup
 - A configured Firebase project for the BrainBox Android application
+
+## Running the Application
+
+- Clone the repository
+- Open the project in Android Studio.
+- Allow Android Studio to sync the Gradle project and download the required dependencies.
+- Connect an Android device or start an Android emulator.
+- Build and run the application from Android Studio.
 
 
 ##  Testing
