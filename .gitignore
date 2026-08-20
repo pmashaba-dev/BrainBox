@@ -7,3 +7,5 @@ local.properties
 .externalNativeBuild/
 .cxx/
 captures/
+# Firebase configuration
+app/google-services.json
