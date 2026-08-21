@@ -26,6 +26,15 @@ The application provides learners with subject-based content and interactive qui
 -  **Lottie animations** and custom app sounds
 -  **Admin features** for quiz and user management
 
+## Screenshots
+
+### BrainBox App
+
+| | | |
+|---|---|---|
+| <img src="screenshots/Login_Screen.jpeg" width="220"/> | <img src="screenshots/Dashboard_Screen.jpeg" width="220"/> | <img src="screenshots/Maths_Quiz.jpeg" width="220"/> |
+| <img src="screenshots/Physics_Quiz.jpeg" width="220"/> | <img src="screenshots/Progress_Screen.jpeg" width="220"/> | <img src="screenshots/Leaderboard_Screen.jpeg" width="220"/> |
+
 ##  Technologies
 
 | Technology | Purpose |
